@@ -6,4 +6,5 @@ you will find project's details as below,
 # src for source codes
 # build or dockerfile and related settings
 # deploy for kubernetes yaml files 
+# infra configuration file to setup kubernetes cluster
 
